@@ -1,0 +1,1 @@
+yarn build && Xcopy /E .\packages\uikit\dist ..\nftg-frontend\node_modules\@pancakeswap\uikit\dist\
